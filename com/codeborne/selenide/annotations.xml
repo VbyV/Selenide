@@ -1,0 +1,7 @@
+<root>
+    <item name='com.codeborne.selenide.SelenideElement com.codeborne.selenide.SelenideElement setValue(java.lang.String)'>
+        <annotation name='org.jetbrains.annotations.Contract'>
+            <val name="pure" val="true"/>
+        </annotation>
+    </item>
+</root>
